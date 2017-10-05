@@ -23,7 +23,7 @@ column format and perform transformation including:
 
 ## Prerequisites
 
-*hgs_tools* need to be installed, and it is avalaible at "\\aqfs1\Data\temp_data_exchange\Fan\HGS_tools". The source code is avaliable at [repository](https://github.com/namedyangfan/HGS)
+*hgs_tools* need to be installed, and it is avalaible at "\\\aqfs1\Data\temp_data_exchange\Fan\HGS_tools". The source code is avaliable at [repository](https://github.com/namedyangfan/HGS)
 
 ```
 to install the wheel file, type in the following in the terminal
