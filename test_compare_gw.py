@@ -1,4 +1,4 @@
-from compare_gw import Obs_well_hgs
+from compare_data.compare_gw import Obs_well_hgs
 import unittest
 
 class TestStringMethods(unittest.TestCase):

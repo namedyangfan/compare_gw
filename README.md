@@ -21,6 +21,10 @@ column format and perform transformation including:
 
 * op: output the processed data as CSV format
 
+## Prerequisites
+
+*hgs_tools* can be installed via wheel file: [Aquanty Server](\\aqfs1\Data\temp_data_exchange\Fan\HGS_tools). The source code is avaliable at [repository](https://github.com/namedyangfan/HGS)
+
 # Method
 
 ## *class* compare_gw( *file_directory, file_name* )
